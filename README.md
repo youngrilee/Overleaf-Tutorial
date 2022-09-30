@@ -1,3 +1,5 @@
+Overleaf Workshop Slides were created based on the presentation template named "presento".
+
 presento
 ========
 
